@@ -1,0 +1,2 @@
+database-1.cluster-cmbbowfpxjxz.eu-north-1.rds.amazonaws.com
+fadhili2003
